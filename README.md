@@ -1,5 +1,8 @@
 # lstm_mnist
 This project uses lstm neural networks to train the data of MNIST.
+参考网址：
+关于lstm详解：https://blog.csdn.net/gzj_1101/article/details/79376798
+关于MNIST数据集详解：https://www.cnblogs.com/xianhan/p/9145966.html
 
 ## deep learning代码
 
